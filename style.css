@@ -187,7 +187,12 @@ body {
 }
 
 .first-content {
- 
+  height: 1vh;
+  display: flex;
+  padding-top: 1px;
+  justify-content: center;
+  align-items: center;
+}
 
 .second-content {
   height: 100vh;
