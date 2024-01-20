@@ -186,21 +186,7 @@ body {
   -webkit-background-clip: text;
 }
 
-.first-content {
-  height: 1vh;
-  display: flex;
-  padding-top: 1px;
-  justify-content: center;
-  align-items: center;
-}
 
-.second-content {
-  height: 100vh;
-  margin-top: auto;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
 p {
   font-size: 1.6rem;
